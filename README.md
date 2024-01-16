@@ -1,11 +1,8 @@
 # Hi There 👋
 
-## I'm Sarah Saeed, Student At Faculty Of Engineering Helwan University
+## I'm Sarah Saeed, Software Engineer
 
-
-### 🔭 I’m currently working on: my graduation project with Siemens Company (AI-based Tool For ARXML Configuraion)
-
-### 🌱 I’m currently learning : NLP
+### 🌱 I’m currently learning: Autosar and RTOS
 
 ### 💬 Ask me about: Embedded Systems, Networks and Security, AI
 
