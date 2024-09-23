@@ -2,13 +2,9 @@
 
 ## I'm Sarah Saeed, Software Engineer
 
-### 🌱 I’m currently learning: Autosar and RTOS
-
-### 💬 Ask me about: Embedded Systems, Networks and Security, AI
+### 🌱 I’m currently learning: Deep Learning
 
 ### 📫 How to reach me: sarahhsaeed23@gmail.com
-
-### ⚡ Fun fact: Avocados are a fruit, not a vegetable
 
 ## Skills:
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
